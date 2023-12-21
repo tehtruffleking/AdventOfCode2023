@@ -5,7 +5,7 @@
 #define GREEN 1
 #define BLUE 2
 
-int numericCaseHelper(int, bool);
+
 
 int main()
 {
