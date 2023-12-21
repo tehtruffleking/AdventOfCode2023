@@ -5,8 +5,6 @@
 #define GREEN 1
 #define BLUE 2
 
-
-
 int main()
 {
     bool gameState = true;
